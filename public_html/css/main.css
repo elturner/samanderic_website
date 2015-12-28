@@ -1,0 +1,54 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	background-color:#DDEEFF;
+	letter-spacing:1px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.hero-unit {
+	height: 100%;
+	min-height: 300px;
+	padding: 60px;
+	margin-bottom: 30px;
+	font-size: 14px;
+	font-weight: 200;
+	font-color: #395C77;
+	line-height: 30px;
+	text-align: center;
+	vertical-align: middle;
+	color: #395C77;
+	background-color: #ffffff;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+p {
+	line-height: 1.3em;
+	font-size:1.3em;
+}
+
+footer p {
+	font-size:.6em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
