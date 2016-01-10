@@ -6,12 +6,16 @@
 
 body {
 	background-color:#DDEEFF;
+/*	background: url('file:///Users/elturner/Documents/code/html/samanderic/public_html/pics/woods.png');
+	background-repeat: no-repeat;
+	background-size: 100% auto; */
 	letter-spacing:1px;
 	font-family: 'Ubuntu', sans-serif;
 }
 
 .hero-unit {
 	height: 100%;
+	width: 40%;
 	min-height: 300px;
 	padding: 60px;
 	margin-bottom: 30px;
