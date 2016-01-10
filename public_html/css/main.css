@@ -6,7 +6,7 @@
 
 body {
 	background-color:#DDEEFF;
-	background: url('file:///Users/elturner/Documents/code/html/samanderic/public_html/pics/woods.png');
+	background: url('/pics/woods.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
