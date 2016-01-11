@@ -6,7 +6,7 @@
 
 body {
 	background-color:#DDEEFF;
-	background: url('/pics/woods.jpg');
+	background: url('/pics/sun.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -33,6 +33,18 @@ body {
 	border-radius: 6px;
 }
 
+a {
+  outline: 0;
+  color: #124;
+}
+
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover,
+.nav-pills > .active > a:focus {
+  color: #ffffff;
+  background-color: #124;
+}
+
 p {
 	line-height: 1.3em;
 	font-size:1.3em;
@@ -41,9 +53,6 @@ p {
 footer p {
 	font-size:.6em;
 }
-
-
-
 
 
 
