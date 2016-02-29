@@ -90,7 +90,7 @@ if ($submitted && $success) {
 			<br>
 			<br>
 	    <label>Total number of people in party:</label>
-            <input type="text" name="partysize">
+            <input type="number" name="partysize">
 			<br>
 			<br>
             <label>Can you make it?</label>
