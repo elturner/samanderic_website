@@ -54,6 +54,7 @@ if (!empty($_POST)) {
 			<ul class="nav nav-pills pull-left">
 	 		  <li><a href="/index.html">Home</a></li>
 			  <li><a href="/venue.html">Venue</a></li>
+			  <li><a href="/attire.html">Attire</a></li>
 			  <li><a href="/accommodations.html">Accommodations</a></li>
 			  <li><a href="/registry.html">Registry</a></li>
 			  <li class="active">
