@@ -56,7 +56,7 @@ if (!empty($_POST)) {
 			  <li><a href="/venue.html">Venue</a></li>
 			  <li><a href="/attire.html">Attire</a></li>
 			  <li><a href="/accommodations.html">Accommodations</a></li>
-			  <li><a href="transportation.html">Transportation</a></li>
+			  <li><a href="/transportation.html">Transportation</a></li>
 			  <li><a href="/registry.html">Registry</a></li>
 			  <li class="active">
 			  	<a href="/rsvp.html">RSVP</a>
